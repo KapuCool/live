@@ -153,7 +153,7 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225823/100001000000000600000000142749
 rtsp://139.215.98.88/PLTV/88888888/224/3221226063/10000100000000060000000015417304_0.smil
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/四川卫视.png" group-title="卫视频道",四川卫视
 rtsp://139.215.98.88/PLTV/88888888/224/3221226073/10000100000000060000000015417297_0.smil
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://imgse.com/i/pVsWri4" group-title="卫视频道",重庆卫视
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://s21.ax1x.com/2025/08/24/pVsWri4.png" group-title="卫视频道",重庆卫视
 rtsp://139.215.98.88/PLTV/88888888/224/3221226059/10000100000000060000000015417306_0.smil
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/贵州卫视.png" group-title="卫视频道",贵州卫视
 rtsp://139.215.98.88/PLTV/88888888/224/3221226061/10000100000000060000000015417305_0.smil
