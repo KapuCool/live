@@ -105,7 +105,7 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225848/100001000000000600000000152130
 rtsp://139.215.98.88/PLTV/88888888/224/3221225630/10000100000000060000000014292013_0.smil
 #EXTINF:-1 tvg-name="长春文旅体育" tvg-logo="https://pic1.imgdb.cn/item/67f0aabb0ba3d5a1d7ed9235.png" group-title="吉林频道",长春2文旅体育
 rtsp://139.215.98.88/PLTV/88888888/224/3221225632/10000100000000060000000014292014_0.smil
-#EXTINF:-1 tvg-name="长春市民" tvg-logo="https://pic1.imgdb.cn/item/67f0aabb0ba3d5a1d7ed9233.png" group-title="吉林频道",长春3市民生活
+#EXTINF:-1 tvg-name="长春市民" tvg-logo="https://pic1.imgdb.cn/item/68ac048a58cb8da5c84ba082.png" group-title="吉林频道",长春3市民生活
 rtsp://139.215.98.88/PLTV/88888888/224/3221225634/10000100000000060000000014292015_0.smil
 #EXTINF:-1 tvg-name="吉林市新闻综合" tvg-logo="https://pic1.imgdb.cn/item/67f0ab120ba3d5a1d7ed9251.png" group-title="吉林频道",吉林市新闻综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221225832/10000100000000060000000015046808_0.smil
