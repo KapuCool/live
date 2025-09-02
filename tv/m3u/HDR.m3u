@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.kakaxi-1.ink/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://pic1.imgdb.cn/item/68a81c3b58cb8da5c8429127.png" group-title="央视频道",CCTV4K超高清
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://pic1.imgdb.cn/item/68a81c3b58cb8da5c8429127.png" group-title="央视HDR",CCTV4K超高清
 http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8?
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://pic1.imgdb.cn/item/68a81c3b58cb8da5c8429127.png" group-title="央视频道",CCTV4K超高清
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://pic1.imgdb.cn/item/68a81c3b58cb8da5c8429127.png" group-title="央视HDR",CCTV4K超高清
 http://117.174.25.254:8188/rtp/239.0.0.184:5140?
