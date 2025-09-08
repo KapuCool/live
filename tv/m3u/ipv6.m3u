@@ -191,6 +191,8 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225544/100001000000000600000000000295
 rtsp://139.215.98.88/PLTV/88888888/224/3221225870/10000100000000060000000015811900_0.smil
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/兵团卫视.png" group-title="卫视频道",兵团卫视
 rtsp://139.215.98.88/PLTV/88888888/224/3221225546/10000100000000060000000000029595_0.smil
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/兵团卫视.png" group-title="卫视频道",兵团卫视
+https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/中国教育1台.png" group-title="卫视频道",中国教育1台
 rtsp://139.215.98.88/PLTV/88888888/224/3221225995/10000100000000060000000015014636_0.smil
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/中国教育2台.png" group-title="卫视频道",中国教育2台
