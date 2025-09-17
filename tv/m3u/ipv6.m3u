@@ -39,7 +39,7 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225902/100001000000000600000000164986
 rtsp://139.215.98.88/PLTV/88888888/224/3221225801/10000100000000060000000014274940_0.smil
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://pic1.imgdb.cn/item/68a81c3b58cb8da5c8429127.png" group-title="央视频道",CCTV4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225761/10000100000000060000000014254011_0.smil
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV央视台球.png" group-title="央视频道",CCTV央视台球
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/央视台球.png" group-title="央视频道",CCTV央视台球
 rtsp://139.215.98.88/PLTV/88888888/224/3221225743/10000100000000060000000014253990_0.smil
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CHC动作电影.png" group-title="央视频道",CHC动作电影
 rtsp://139.215.98.88/PLTV/88888888/224/3221226201/10000100000000060000000015648520_0.smil
@@ -63,27 +63,27 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221226235/100001000000000600000000163366
 rtsp://139.215.98.88/PLTV/88888888/224/3221225898/10000100000000060000000016336645_0.smil
 #EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://pic1.imgdb.cn/item/68a81caa58cb8da5c8429158.png" group-title="央视频道",CGTN阿拉伯语
 rtsp://139.215.98.88/PLTV/88888888/224/3221225900/10000100000000060000000016336654_0.smil
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV第一剧场.png" group-title="央视频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/第一剧场.png" group-title="央视频道",CCTV第一剧场
 rtsp://139.215.98.88/PLTV/88888888/224/3221225779/10000100000000060000000014254031_0.smil
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV电视指南.png" group-title="央视频道",CCTV电视指南
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/电视指南.png" group-title="央视频道",CCTV电视指南
 rtsp://139.215.98.88/PLTV/88888888/224/3221225831/10000100000000060000000014313398_0.smil
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/风云剧场.png" group-title="央视频道",CCTV风云剧场
 rtsp://139.215.98.88/PLTV/88888888/224/3221225829/10000100000000060000000014313392_0.smil
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV风云音乐.png" group-title="央视频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/风云音乐.png" group-title="央视频道",CCTV风云音乐
 rtsp://139.215.98.88/PLTV/88888888/224/3221225751/10000100000000060000000014254005_0.smil
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV风云足球.png" group-title="央视频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/风云足球.png" group-title="央视频道",CCTV风云足球
 rtsp://139.215.98.88/PLTV/88888888/224/3221225747/10000100000000060000000014253997_0.smil
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV兵器科技.png" group-title="央视频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/兵器科技.png" group-title="央视频道",CCTV兵器科技
 rtsp://139.215.98.88/PLTV/88888888/224/3221225769/10000100000000060000000014254019_0.smil
-#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/女性时尚.png" group-title="央视频道",CCTV女性时尚
 rtsp://139.215.98.88/PLTV/88888888/224/3221225745/10000100000000060000000014253993_0.smil
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV世界地理.png" group-title="央视频道",CCTV世界地理
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/世界地理.png" group-title="央视频道",CCTV世界地理
 rtsp://139.215.98.88/PLTV/88888888/224/3221225783/10000100000000060000000014254033_0.smil
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV高尔夫网球.png" group-title="央视频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/高尔夫网球.png" group-title="央视频道",CCTV高尔夫网球
 rtsp://139.215.98.88/PLTV/88888888/224/3221226213/10000100000000060000000015869929_0.smil
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
 rtsp://139.215.98.88/PLTV/88888888/224/3221225757/10000100000000060000000014254008_0.smil
-#EXTINF:-1 tvg-name="CCTV央视文化精品" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV央视文化精品.png" group-title="央视频道",CCTV央视文化精品
+#EXTINF:-1 tvg-name="CCTV央视文化精品" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/央视文化精品.png" group-title="央视频道",CCTV央视文化精品
 rtsp://139.215.98.88/PLTV/88888888/224/3221225767/10000100000000060000000014254016_0.smil
 #EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV电视指南.png" group-title="央视频道",CCTV电视指南
 rtsp://139.215.98.88/PLTV/88888888/224/3221225831/10000100000000060000000014313398_0.smil
@@ -195,11 +195,11 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225870/100001000000000600000000158119
 rtsp://139.215.98.88/PLTV/88888888/224/3221225546/10000100000000060000000000029595_0.smil
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/兵团卫视.png" group-title="卫视频道",兵团卫视
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/中国教育1台.png" group-title="卫视频道",中国教育1台
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CETV1.png" group-title="卫视频道",中国教育1台
 rtsp://139.215.98.88/PLTV/88888888/224/3221225995/10000100000000060000000015014636_0.smil
-#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/中国教育2台.png" group-title="卫视频道",中国教育2台
+#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CETV2.png" group-title="卫视频道",中国教育2台
 rtsp://139.215.98.88/PLTV/88888888/224/3221225785/10000100000000060000000014254035_0.smil
-#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/中国教育4台.png" group-title="卫视频道",中国教育4台
+#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CETV4.png" group-title="卫视频道",中国教育4台
 rtsp://139.215.98.88/PLTV/88888888/224/3221225775/10000100000000060000000014254024_0.smil
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/游戏风云.png" group-title="数字频道",游戏风云
 rtsp://139.215.98.88/PLTV/88888888/224/3221225876/10000100000000060000000015948525_0.smil
