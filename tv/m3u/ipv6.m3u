@@ -127,6 +127,10 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225524/100001000000000600000000000295
 rtsp://139.215.98.88/PLTV/88888888/224/3221225856/10000100000000060000000015317264_0.smil
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://pic1.imgdb.cn/item/68a81d0e58cb8da5c842941f.png" group-title="卫视频道",深圳卫视4K
 rtsp://139.215.98.88/PLTV/88888888/224/3221225512/10000100000000060000000000029578_0.smil
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://pic1.imgdb.cn/item/68d6a17ec5157e1a8838772d.png" group-title="卫视频道",浙江卫视4K
+rtsp://139.215.98.88/PLTV/88888888/224/3221225530/10000100000000060000000000029587_0.smil
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://pic1.imgdb.cn/item/68d6aa13c5157e1a883880a6.png" group-title="卫视频道",四川卫视4K
+rtsp://139.215.98.88/PLTV/88888888/224/3221225528/10000100000000060000000000029586_0.smil
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/湖南卫视.png" group-title="卫视频道",湖南卫视
 rtsp://139.215.98.88/PLTV/88888888/224/3221225813/10000100000000060000000014274977_0.smil
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/浙江卫视.png" group-title="卫视频道",浙江卫视
@@ -215,8 +219,6 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221226039/100001000000000600000000152422
 rtsp://139.215.98.88/PLTV/88888888/224/3221225552/10000100000000060000000000029615_0.smil
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/金鹰卡通.png" group-title="数字频道",金鹰卡通
 rtsp://139.215.98.88/PLTV/88888888/224/3221226243/10000100000000060000000016498635_0.smil
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/哈哈炫动.png" group-title="数字频道",哈哈炫动
-rtsp://139.215.98.88/PLTV/88888888/224/3221225574/10000100000000060000000000029709_0.smil
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
 rtsp://139.215.98.88/PLTV/88888888/224/3221225741/10000100000000060000000014253765_0.smil
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/金鹰纪实.png" group-title="数字频道",金鹰纪实
@@ -253,12 +255,6 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225797/100001000000000600000000142545
 rtsp://139.215.98.88/PLTV/88888888/224/3221225781/10000100000000060000000014254032_0.smil
 #EXTINF:-1 tvg-name="书画频道" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/书画频道.png" group-title="数字频道",书画频道
 rtsp://139.215.98.88/PLTV/88888888/224/3221225872/10000100000000060000000015869926_0.smil
-#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/新动漫.png" group-title="数字频道",新动漫
-rtsp://139.215.98.88/PLTV/88888888/224/3221225890/10000100000000060000000016312813_0.smil
-#EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://pic1.imgdb.cn/item/67f0ba110ba3d5a1d7ed9915.png" group-title="数字频道",优优宝贝
-rtsp://139.215.98.88/PLTV/88888888/224/3221226203/10000100000000060000000015673313_0.smil
-#EXTINF:-1 tvg-name="每日影院" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/环球奇观.png" group-title="数字频道",每日影院
-rtsp://139.215.98.88/PLTV/88888888/224/3221225892/10000100000000060000000016312812_0.smil
 #EXTINF:-1 tvg-name="双阳" tvg-logo="https://pic1.imgdb.cn/item/67f0ca610ba3d5a1d7eda0d3.png" group-title="吉林地方频道",双阳
 rtsp://139.215.98.88/PLTV/88888888/224/3221225884/10000100000000060000000015948511_0.smil
 #EXTINF:-1 tvg-name="农安" tvg-logo="https://pic1.imgdb.cn/item/67f0ca610ba3d5a1d7eda0d3.png" group-title="吉林地方频道",农安
