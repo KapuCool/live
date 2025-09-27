@@ -136,7 +136,7 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225538/100001000000000600000000000295
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://pic1.imgdb.cn/item/68d80a27c5157e1a883d317d.png" group-title="卫视频道",江苏卫视4K
 rtsp://139.215.98.88/PLTV/88888888/224/3221225526/10000100000000060000000000029585_0.smil
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://pic1.imgdb.cn/item/68d80a27c5157e1a883d317c.png" group-title="卫视频道",湖南卫视4K
-rtsp://139.215.98.88/PLTV/88888888/224/3221225813/10000100000000060000000014274977_0.smil
+rtsp://139.215.98.88/PLTV/88888888/224/3221225500/10000100000000060000000000029511_0.smil
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://pic1.imgdb.cn/item/68d6aa13c5157e1a883880a6.png" group-title="卫视频道",四川卫视4K
 rtsp://139.215.98.88/PLTV/88888888/224/3221225528/10000100000000060000000000029586_0.smil
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/湖南卫视.png" group-title="卫视频道",湖南卫视
