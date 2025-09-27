@@ -108,9 +108,9 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225632/100001000000000600000000142920
 #EXTINF:-1 tvg-name="长春市民" tvg-logo="https://pic1.imgdb.cn/item/68ac048a58cb8da5c84ba082.png" group-title="吉林频道",长春3市民生活
 rtsp://139.215.98.88/PLTV/88888888/224/3221225634/10000100000000060000000014292015_0.smil
 #EXTINF:-1 tvg-name="吉林市新闻综合" tvg-logo="https://pic1.imgdb.cn/item/67f0ab120ba3d5a1d7ed9251.png" group-title="吉林频道",吉林市新闻综合
-rtsp://139.215.98.88/PLTV/88888888/224/3221225832/10000100000000060000000015046808_0.smil
-#EXTINF:-1 tvg-name="吉林市新闻综合" tvg-logo="https://pic1.imgdb.cn/item/67f0ab120ba3d5a1d7ed9251.png" group-title="吉林频道",吉林市新闻综合
 https://living.muzhifm.com/jilinshi/jilin_zonghe_v.m3u8?auth_key=1837821685-0-0-67b43a2f1e9e2ce78746337eea2b2537
+#EXTINF:-1 tvg-name="吉林市新闻综合" tvg-logo="https://pic1.imgdb.cn/item/67f0ab120ba3d5a1d7ed9251.png" group-title="吉林频道",吉林市新闻综合
+rtsp://139.215.98.88/PLTV/88888888/224/3221225832/10000100000000060000000015046808_0.smil
 #EXTINF:-1 tvg-name="吉林市科教" tvg-logo="https://pic1.imgdb.cn/item/67f0ab4e0ba3d5a1d7ed927f.png" group-title="吉林频道",吉林市科教
 rtsp://139.215.98.88/PLTV/88888888/224/3221225830/10000100000000060000000015046809_0.smil
 #EXTINF:-1 tvg-name="吉林市生活" tvg-logo="https://pic1.imgdb.cn/item/67f0ab210ba3d5a1d7ed925f.png" group-title="吉林频道",吉林市生活
@@ -129,6 +129,14 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225856/100001000000000600000000153172
 rtsp://139.215.98.88/PLTV/88888888/224/3221225512/10000100000000060000000000029578_0.smil
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://pic1.imgdb.cn/item/68d6a17ec5157e1a8838772d.png" group-title="卫视频道",浙江卫视4K
 rtsp://139.215.98.88/PLTV/88888888/224/3221225530/10000100000000060000000000029587_0.smil
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://pic1.imgdb.cn/item/68d80a27c5157e1a883d317b.png" group-title="卫视频道",东方卫视4K
+rtsp://139.215.98.88/PLTV/88888888/224/3221225572/10000100000000060000000000029666_0.smil
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://pic1.imgdb.cn/item/68d80a27c5157e1a883d317a.png" group-title="卫视频道",山东卫视4K
+rtsp://139.215.98.88/PLTV/88888888/224/3221225538/10000100000000060000000000029591_0.smil
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://pic1.imgdb.cn/item/68d80a27c5157e1a883d317d.png" group-title="卫视频道",江苏卫视4K
+rtsp://139.215.98.88/PLTV/88888888/224/3221225526/10000100000000060000000000029585_0.smil
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://pic1.imgdb.cn/item/68d80a27c5157e1a883d317c.png" group-title="卫视频道",湖南卫视4K
+rtsp://139.215.98.88/PLTV/88888888/224/3221225813/10000100000000060000000014274977_0.smil
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://pic1.imgdb.cn/item/68d6aa13c5157e1a883880a6.png" group-title="卫视频道",四川卫视4K
 rtsp://139.215.98.88/PLTV/88888888/224/3221225528/10000100000000060000000000029586_0.smil
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -179,34 +187,32 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225817/100001000000000600000000142749
 rtsp://139.215.98.88/PLTV/88888888/224/3221226031/10000100000000060000000015242272_0.smil
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/青海卫视.png" group-title="卫视频道",青海卫视
 rtsp://139.215.98.88/PLTV/88888888/224/3221225562/10000100000000060000000000029646_0.smil
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225516/10000100000000060000000000029580_0.smil
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/陕西卫视.png" group-title="卫视频道",陕西卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225502/10000100000000060000000000029535_0.smil
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/新疆卫视.png" group-title="卫视频道",新疆卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225522/10000100000000060000000000029583_0.smil
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/西藏卫视.png" group-title="卫视频道",西藏卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225536/10000100000000060000000000029590_0.smil
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/兵团卫视.png" group-title="卫视频道",兵团卫视
+rtsp://139.215.98.88/PLTV/88888888/224/3221225518/10000100000000060000000000029581_0.smil
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/兵团卫视.png" group-title="卫视频道",兵团卫视
+https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 rtsp://139.215.98.88/PLTV/88888888/224/3221225570/10000100000000060000000000029665_0.smil
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/海南卫视.png" group-title="卫视频道",海南卫视
 rtsp://139.215.98.88/PLTV/88888888/224/3221225568/10000100000000060000000000029657_0.smil
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-rtsp://139.215.98.88/PLTV/88888888/224/3221225739/10000100000000060000000014251669_0.smil
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/山西卫视.png" group-title="卫视频道",山西卫视
 rtsp://139.215.98.88/PLTV/88888888/224/3221225540/10000100000000060000000000029592_0.smil
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/陕西卫视.png" group-title="卫视频道",陕西卫视
-rtsp://139.215.98.88/PLTV/88888888/224/3221225530/10000100000000060000000000029587_0.smil
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/新疆卫视.png" group-title="卫视频道",新疆卫视
-rtsp://139.215.98.88/PLTV/88888888/224/3221225504/10000100000000060000000000029555_0.smil
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/西藏卫视.png" group-title="卫视频道",西藏卫视
-rtsp://139.215.98.88/PLTV/88888888/224/3221225544/10000100000000060000000000029594_0.smil
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/三沙卫视.png" group-title="卫视频道",三沙卫视
 rtsp://139.215.98.88/PLTV/88888888/224/3221225870/10000100000000060000000015811900_0.smil
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/兵团卫视.png" group-title="卫视频道",兵团卫视
-rtsp://139.215.98.88/PLTV/88888888/224/3221225546/10000100000000060000000000029595_0.smil
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/兵团卫视.png" group-title="卫视频道",兵团卫视
-https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CETV1.png" group-title="卫视频道",中国教育1台
 rtsp://139.215.98.88/PLTV/88888888/224/3221225995/10000100000000060000000015014636_0.smil
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CETV2.png" group-title="卫视频道",中国教育2台
 rtsp://139.215.98.88/PLTV/88888888/224/3221225785/10000100000000060000000014254035_0.smil
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CETV4.png" group-title="卫视频道",中国教育4台
 rtsp://139.215.98.88/PLTV/88888888/224/3221225775/10000100000000060000000014254024_0.smil
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/游戏风云.png" group-title="数字频道",游戏风云
-rtsp://139.215.98.88/PLTV/88888888/224/3221225876/10000100000000060000000015948525_0.smil
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/睛彩青少.png" group-title="数字频道",睛彩青少
 rtsp://139.215.98.88/PLTV/88888888/224/3221226037/10000100000000060000000015242275_0.smil
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/睛彩篮球.png" group-title="数字频道",睛彩篮球
@@ -221,14 +227,18 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225552/100001000000000600000000000296
 rtsp://139.215.98.88/PLTV/88888888/224/3221226243/10000100000000060000000016498635_0.smil
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
 rtsp://139.215.98.88/PLTV/88888888/224/3221225741/10000100000000060000000014253765_0.smil
+#EXTINF:-1,tvg-name="BRTV纪实科教" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/纪实科教.png" group-title="数字频道",BRTV纪实科教
+rtsp://139.215.98.88/PLTV/88888888/224/3221225508/10000100000000060000000000029576_0.smil
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/金鹰纪实.png" group-title="数字频道",金鹰纪实
 rtsp://139.215.98.88/PLTV/88888888/224/3221226053/10000100000000060000000015417310_0.smil
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://pic1.imgdb.cn/item/67f0b6290ba3d5a1d7ed96f8.png" group-title="数字频道",中国交通
 rtsp://139.215.98.88/PLTV/88888888/224/3221226195/10000100000000060000000015634735_0.smil
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/武术世界.png" group-title="数字频道",武术世界
 rtsp://139.215.98.88/PLTV/88888888/224/3221225534/10000100000000060000000000029589_0.smil
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/动漫秀场.png" group-title="数字频道",动漫秀场
-rtsp://139.215.98.88/PLTV/88888888/224/3221226217/10000100000000060000000015948524_0.smil
+#EXTINF:-1,tvg-name="文物宝库" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/文物宝库.png" group-title="数字频道",文物宝库
+rtsp://139.215.98.88/PLTV/88888888/224/3221225554/10000100000000060000000000029616_0.smil
+#EXTINF:-1,tvg-name="梨园频道" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/梨园频道.png" group-title="数字频道",梨园频道
+rtsp://139.215.98.88/PLTV/88888888/224/3221225498/10000100000000060000000000029510_0.smil
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://pic1.imgdb.cn/item/67f0bb6a0ba3d5a1d7ed99b1.png" group-title="数字频道",茶频道
 rtsp://139.215.98.88/PLTV/88888888/224/3221225874/10000100000000060000000015948529_0.smil
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://pic1.imgdb.cn/item/67f0bce30ba3d5a1d7ed9ab7.png" group-title="数字频道",快乐垂钓
@@ -247,6 +257,8 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221226219/100001000000000600000000159485
 rtsp://139.215.98.88/PLTV/88888888/224/3221225566/10000100000000060000000000029649_0.smil
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://pic1.imgdb.cn/item/67f0c2200ba3d5a1d7ed9d2c.png" group-title="数字频道",老故事
 rtsp://139.215.98.88/PLTV/88888888/224/3221225827/10000100000000060000000014313391_0.smil
+#EXTINF:-1,tvg-name="中学生" tvg-logo="https://pic1.imgdb.cn/item/68d806c6c5157e1a883d2def.png" group-title="数字频道",中学生
+rtsp://139.215.98.88/PLTV/88888888/224/3221225542/10000100000000060000000000029593_0.smil
 #EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/环球奇观.png" group-title="数字频道",环球奇观
 rtsp://139.215.98.88/PLTV/88888888/224/3221225749/10000100000000060000000014254004_0.smil
 #EXTINF:-1 tvg-name="汽摩频道" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/汽摩.png" group-title="数字频道",汽摩频道
@@ -255,6 +267,10 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225797/100001000000000600000000142545
 rtsp://139.215.98.88/PLTV/88888888/224/3221225781/10000100000000060000000014254032_0.smil
 #EXTINF:-1 tvg-name="书画频道" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/书画频道.png" group-title="数字频道",书画频道
 rtsp://139.215.98.88/PLTV/88888888/224/3221225872/10000100000000060000000015869926_0.smil
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/游戏风云.png" group-title="数字频道",游戏风云
+rtsp://139.215.98.88/PLTV/88888888/224/3221225876/10000100000000060000000015948525_0.smil
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/动漫秀场.png" group-title="数字频道",动漫秀场
+rtsp://139.215.98.88/PLTV/88888888/224/3221226217/10000100000000060000000015948524_0.smil
 #EXTINF:-1 tvg-name="双阳" tvg-logo="https://pic1.imgdb.cn/item/67f0ca610ba3d5a1d7eda0d3.png" group-title="吉林地方频道",双阳
 rtsp://139.215.98.88/PLTV/88888888/224/3221225884/10000100000000060000000015948511_0.smil
 #EXTINF:-1 tvg-name="农安" tvg-logo="https://pic1.imgdb.cn/item/67f0ca610ba3d5a1d7eda0d3.png" group-title="吉林地方频道",农安
