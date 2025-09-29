@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="	https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://pic1.imgdb.cn/item/68a81b2258cb8da5c8429088.png" group-title="央视频道",CCTV1综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221225620/10000100000000060000000014261464_0.smil
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://pic1.imgdb.cn/item/68a81b2258cb8da5c842908a.png" group-title="央视频道",CCTV2财经
@@ -41,12 +41,6 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225801/100001000000000600000000142749
 rtsp://139.215.98.88/PLTV/88888888/224/3221225761/10000100000000060000000014254011_0.smil
 #EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/央视台球.png" group-title="央视频道",CCTV央视台球
 rtsp://139.215.98.88/PLTV/88888888/224/3221225743/10000100000000060000000014253990_0.smil
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CHC动作电影.png" group-title="央视频道",CHC动作电影
-rtsp://139.215.98.88/PLTV/88888888/224/3221226201/10000100000000060000000015648520_0.smil
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
-rtsp://139.215.98.88/PLTV/88888888/224/3221225864/10000100000000060000000015648524_0.smil
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CHC影迷电影.png" group-title="央视频道",CHC影迷电影
-rtsp://139.215.98.88/PLTV/88888888/224/3221225866/10000100000000060000000015648523_0.smil
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://pic1.imgdb.cn/item/68a81c3b58cb8da5c8429128.png" group-title="央视频道",CCTV4中文国际欧洲
 rtsp://139.215.98.88/PLTV/88888888/224/3221226231/10000100000000060000000016336628_0.smil
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://pic1.imgdb.cn/item/68a81c3c58cb8da5c8429129.png" group-title="央视频道",CCTV4中文国际美洲
@@ -121,23 +115,23 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225698/100001000000000600000000148198
 rtsp://139.215.98.88/PLTV/88888888/224/3221226045/10000100000000060000000015259698_0.smil
 #EXTINF:-1 tvg-name="延边2" tvg-logo="https://pic1.imgdb.cn/item/67f0c73d0ba3d5a1d7ed9f23.png" group-title="吉林频道",延边2
 rtsp://139.215.98.88/PLTV/88888888/224/3221226047/10000100000000060000000015259697_0.smil
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://pic1.imgdb.cn/item/68a81d0e58cb8da5c842941c.png" group-title="卫视频道",北京卫视4K
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://pic1.imgdb.cn/item/68a81d0e58cb8da5c842941c.png" group-title="卫视频道",北京卫视4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225524/10000100000000060000000000029584_0.smil
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://pic1.imgdb.cn/item/68a81d0e58cb8da5c842941d.png" group-title="卫视频道",广东卫视4K
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://pic1.imgdb.cn/item/68a81d0e58cb8da5c842941d.png" group-title="卫视频道",广东卫视4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225856/10000100000000060000000015317264_0.smil
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://pic1.imgdb.cn/item/68a81d0e58cb8da5c842941f.png" group-title="卫视频道",深圳卫视4K
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://pic1.imgdb.cn/item/68a81d0e58cb8da5c842941f.png" group-title="卫视频道",深圳卫视4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225512/10000100000000060000000000029578_0.smil
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://pic1.imgdb.cn/item/68d6a17ec5157e1a8838772d.png" group-title="卫视频道",浙江卫视4K
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://pic1.imgdb.cn/item/68d6a17ec5157e1a8838772d.png" group-title="卫视频道",浙江卫视4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225530/10000100000000060000000000029587_0.smil
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://pic1.imgdb.cn/item/68d80a27c5157e1a883d317b.png" group-title="卫视频道",东方卫视4K
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://pic1.imgdb.cn/item/68d80a27c5157e1a883d317b.png" group-title="卫视频道",东方卫视4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225572/10000100000000060000000000029666_0.smil
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://pic1.imgdb.cn/item/68d80a27c5157e1a883d317a.png" group-title="卫视频道",山东卫视4K
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://pic1.imgdb.cn/item/68d80a27c5157e1a883d317a.png" group-title="卫视频道",山东卫视4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225538/10000100000000060000000000029591_0.smil
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://pic1.imgdb.cn/item/68d80a27c5157e1a883d317d.png" group-title="卫视频道",江苏卫视4K
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://pic1.imgdb.cn/item/68d80a27c5157e1a883d317d.png" group-title="卫视频道",江苏卫视4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225526/10000100000000060000000000029585_0.smil
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://pic1.imgdb.cn/item/68d80a27c5157e1a883d317c.png" group-title="卫视频道",湖南卫视4K
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://pic1.imgdb.cn/item/68d80a27c5157e1a883d317c.png" group-title="卫视频道",湖南卫视4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225500/10000100000000060000000000029511_0.smil
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://pic1.imgdb.cn/item/68d6aa13c5157e1a883880a6.png" group-title="卫视频道",四川卫视4K
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://pic1.imgdb.cn/item/68d6aa13c5157e1a883880a6.png" group-title="卫视频道",四川卫视4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225528/10000100000000060000000000029586_0.smil
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/湖南卫视.png" group-title="卫视频道",湖南卫视
 rtsp://139.215.98.88/PLTV/88888888/224/3221225813/10000100000000060000000014274977_0.smil
@@ -213,6 +207,12 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225995/100001000000000600000000150146
 rtsp://139.215.98.88/PLTV/88888888/224/3221225785/10000100000000060000000014254035_0.smil
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CETV4.png" group-title="卫视频道",中国教育4台
 rtsp://139.215.98.88/PLTV/88888888/224/3221225775/10000100000000060000000014254024_0.smil
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CHC动作电影.png" group-title="数字频道",CHC动作电影
+rtsp://139.215.98.88/PLTV/88888888/224/3221226201/10000100000000060000000015648520_0.smil
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
+rtsp://139.215.98.88/PLTV/88888888/224/3221225864/10000100000000060000000015648524_0.smil
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
+rtsp://139.215.98.88/PLTV/88888888/224/3221225866/10000100000000060000000015648523_0.smil
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/睛彩青少.png" group-title="数字频道",睛彩青少
 rtsp://139.215.98.88/PLTV/88888888/224/3221226037/10000100000000060000000015242275_0.smil
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/睛彩篮球.png" group-title="数字频道",睛彩篮球
