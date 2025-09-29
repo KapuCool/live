@@ -125,7 +125,7 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225512/100001000000000600000000000295
 rtsp://139.215.98.88/PLTV/88888888/224/3221225530/10000100000000060000000000029587_0.smil
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://pic1.imgdb.cn/item/68da65fec5157e1a8845ab1f.png" group-title="卫视频道",东方卫视4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225572/10000100000000060000000000029666_0.smil
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://pic1.imgdb.cn/item/68da62b9c5157e1a8845a2bb.png" group-title="卫视频道",山东卫视4K超高清
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://pic1.imgdb.cn/item/68d80a27c5157e1a883d317a.png" group-title="卫视频道",山东卫视4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225538/10000100000000060000000000029591_0.smil
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://pic1.imgdb.cn/item/68d80a27c5157e1a883d317d.png" group-title="卫视频道",江苏卫视4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225526/10000100000000060000000000029585_0.smil
@@ -263,9 +263,9 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225542/100001000000000600000000000295
 rtsp://139.215.98.88/PLTV/88888888/224/3221225749/10000100000000060000000014254004_0.smil
 #EXTINF:-1 tvg-name="汽摩频道" tvg-logo="https://pic1.imgdb.cn/item/68da67a5c5157e1a8845af05.png" group-title="数字频道",汽摩频道
 rtsp://139.215.98.88/PLTV/88888888/224/3221225797/10000100000000060000000014254508_0.smil
-#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/国学频道.png" group-title="数字频道",国学频道
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/国学.png" group-title="数字频道",国学频道
 rtsp://139.215.98.88/PLTV/88888888/224/3221225781/10000100000000060000000014254032_0.smil
-#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/书画频道.png" group-title="数字频道",书画频道
+#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/书画.png" group-title="数字频道",书画频道
 rtsp://139.215.98.88/PLTV/88888888/224/3221225872/10000100000000060000000015869926_0.smil
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/游戏风云.png" group-title="数字频道",游戏风云
 rtsp://139.215.98.88/PLTV/88888888/224/3221225876/10000100000000060000000015948525_0.smil
