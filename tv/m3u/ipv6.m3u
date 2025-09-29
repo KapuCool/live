@@ -121,15 +121,15 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225524/100001000000000600000000000295
 rtsp://139.215.98.88/PLTV/88888888/224/3221225856/10000100000000060000000015317264_0.smil
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://pic1.imgdb.cn/item/68a81d0e58cb8da5c842941f.png" group-title="卫视频道",深圳卫视4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225512/10000100000000060000000000029578_0.smil
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://pic1.imgdb.cn/item/68d6a17ec5157e1a8838772d.png" group-title="卫视频道",浙江卫视4K超高清
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://pic1.imgdb.cn/item/68da64e6c5157e1a8845a7f2.png" group-title="卫视频道",浙江卫视4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225530/10000100000000060000000000029587_0.smil
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://pic1.imgdb.cn/item/68d80a27c5157e1a883d317b.png" group-title="卫视频道",东方卫视4K超高清
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://pic1.imgdb.cn/item/68da65fec5157e1a8845ab1f.png" group-title="卫视频道",东方卫视4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225572/10000100000000060000000000029666_0.smil
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://pic1.imgdb.cn/item/68d80a27c5157e1a883d317a.png" group-title="卫视频道",山东卫视4K超高清
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://pic1.imgdb.cn/item/68da62b9c5157e1a8845a2bb.png" group-title="卫视频道",山东卫视4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225538/10000100000000060000000000029591_0.smil
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://pic1.imgdb.cn/item/68d80a27c5157e1a883d317d.png" group-title="卫视频道",江苏卫视4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225526/10000100000000060000000000029585_0.smil
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://pic1.imgdb.cn/item/68d80a27c5157e1a883d317c.png" group-title="卫视频道",湖南卫视4K超高清
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://pic1.imgdb.cn/item/68da5ef6c5157e1a88459262.png" group-title="卫视频道",湖南卫视4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225500/10000100000000060000000000029511_0.smil
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://pic1.imgdb.cn/item/68d6aa13c5157e1a883880a6.png" group-title="卫视频道",四川卫视4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225528/10000100000000060000000000029586_0.smil
@@ -161,7 +161,7 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225823/100001000000000600000000142749
 rtsp://139.215.98.88/PLTV/88888888/224/3221226063/10000100000000060000000015417304_0.smil
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/四川卫视.png" group-title="卫视频道",四川卫视
 rtsp://139.215.98.88/PLTV/88888888/224/3221226073/10000100000000060000000015417297_0.smil
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://s21.ax1x.com/2025/08/24/pVsWri4.png" group-title="卫视频道",重庆卫视
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://pic1.imgdb.cn/item/68da67a6c5157e1a8845af06.png" group-title="卫视频道",重庆卫视
 rtsp://139.215.98.88/PLTV/88888888/224/3221226059/10000100000000060000000015417306_0.smil
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://s21.ax1x.com/2025/08/24/pVsh6Dx.png" group-title="卫视频道",贵州卫视
 rtsp://139.215.98.88/PLTV/88888888/224/3221226061/10000100000000060000000015417305_0.smil
@@ -261,7 +261,7 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225827/100001000000000600000000143133
 rtsp://139.215.98.88/PLTV/88888888/224/3221225542/10000100000000060000000000029593_0.smil
 #EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/环球奇观.png" group-title="数字频道",环球奇观
 rtsp://139.215.98.88/PLTV/88888888/224/3221225749/10000100000000060000000014254004_0.smil
-#EXTINF:-1 tvg-name="汽摩频道" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/汽摩.png" group-title="数字频道",汽摩频道
+#EXTINF:-1 tvg-name="汽摩频道" tvg-logo="https://pic1.imgdb.cn/item/68da67a5c5157e1a8845af05.png" group-title="数字频道",汽摩频道
 rtsp://139.215.98.88/PLTV/88888888/224/3221225797/10000100000000060000000014254508_0.smil
 #EXTINF:-1 tvg-name="国学频道" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/国学频道.png" group-title="数字频道",国学频道
 rtsp://139.215.98.88/PLTV/88888888/224/3221225781/10000100000000060000000014254032_0.smil
