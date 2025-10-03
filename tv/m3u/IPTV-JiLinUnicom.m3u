@@ -341,7 +341,7 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221226093/100001000000000600000000154462
 rtsp://139.215.98.88/PLTV/88888888/224/3221226009/10000100000000060000000015046837_0.smil
 #EXTINF:-1 tvg-name="松原2" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/松原2.png" group-title="吉林地方频道",松原2
 rtsp://139.215.98.88/PLTV/88888888/224/3221226087/10000100000000060000000015446264_0.smil
-#EXTINF:-1 tvg-name="扶余" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/吉林默认.png" group-title="吉林地方频道",扶余
+#EXTINF:-1 tvg-name="扶余" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/扶余.png" group-title="吉林地方频道",扶余
 rtsp://139.215.98.88/PLTV/88888888/224/3221226091/10000100000000060000000015446262_0.smil
 #EXTINF:-1 tvg-name="乾安" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/吉林默认.png" group-title="吉林地方频道",乾安
 rtsp://139.215.98.88/PLTV/88888888/224/3221226089/10000100000000060000000015446263_0.smil
