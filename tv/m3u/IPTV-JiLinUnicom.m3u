@@ -275,7 +275,7 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221226049/100001000000000600000000154173
 rtsp://139.215.98.88/PLTV/88888888/224/3221226123/10000100000000060000000015417314_0.smil
 #EXTINF:-1 tvg-name="舒兰" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/吉林默认.png" group-title="吉林地方频道",舒兰
 rtsp://139.215.98.88/PLTV/88888888/224/3221226193/10000100000000060000000015585157_0.smil
-#EXTINF:-1 tvg-name="蛟河" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/吉林默认.png" group-title="吉林地方频道",蛟河
+#EXTINF:-1 tvg-name="蛟河" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/蛟河.png" group-title="吉林地方频道",蛟河
 rtsp://139.215.98.88/PLTV/88888888/224/3221226225/10000100000000060000000016079780_0.smil
 #EXTINF:-1 tvg-name="桦甸" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/桦甸.png" group-title="吉林地方频道",桦甸
 rtsp://139.215.98.88/PLTV/88888888/224/3221225537/10000100000000060000000000030285_0.smil
