@@ -223,7 +223,7 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225552/100001000000000600000000000296
 rtsp://139.215.98.88/PLTV/88888888/224/3221226243/10000100000000060000000016498635_0.smil
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
 rtsp://139.215.98.88/PLTV/88888888/224/3221225741/10000100000000060000000014253765_0.smil
-#EXTINF:-1,tvg-name="BRTV纪实科教" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/纪实科教.png" group-title="数字频道",BRTV纪实科教
+#EXTINF:-1,tvg-name="纪实科教" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/纪实科教.png" group-title="数字频道",BRTV纪实科教
 rtsp://139.215.98.88/PLTV/88888888/224/3221225508/10000100000000060000000000029576_0.smil
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/金鹰纪实.png" group-title="数字频道",金鹰纪实
 rtsp://139.215.98.88/PLTV/88888888/224/3221226053/10000100000000060000000015417310_0.smil
@@ -241,7 +241,7 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225874/100001000000000600000000159485
 rtsp://139.215.98.88/PLTV/88888888/224/3221226215/10000100000000060000000015948526_0.smil
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/乐游.png" group-title="数字频道",乐游
 rtsp://139.215.98.88/PLTV/88888888/224/3221225882/10000100000000060000000015948514_0.smil
-#EXTINF:-1 tvg-name="法制天地" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/法治天地.png" group-title="数字频道",法制天地
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/法治天地.png" group-title="数字频道",法治天地
 rtsp://139.215.98.88/PLTV/88888888/224/3221225880/10000100000000060000000015948516_0.smil
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/金色学堂.png" group-title="数字频道",金色学堂
 rtsp://139.215.98.88/PLTV/88888888/224/3221226221/10000100000000060000000015948519_0.smil
@@ -257,11 +257,11 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225827/100001000000000600000000143133
 rtsp://139.215.98.88/PLTV/88888888/224/3221225542/10000100000000060000000000029593_0.smil
 #EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/环球奇观.png" group-title="数字频道",环球奇观
 rtsp://139.215.98.88/PLTV/88888888/224/3221225749/10000100000000060000000014254004_0.smil
-#EXTINF:-1 tvg-name="汽摩频道" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/汽摩.png" group-title="数字频道",汽摩频道
+#EXTINF:-1 tvg-name="汽摩" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/汽摩.png" group-title="数字频道",汽摩
 rtsp://139.215.98.88/PLTV/88888888/224/3221225797/10000100000000060000000014254508_0.smil
-#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/国学.png" group-title="数字频道",国学频道
+#EXTINF:-1 tvg-name="国学" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/国学.png" group-title="数字频道",国学
 rtsp://139.215.98.88/PLTV/88888888/224/3221225781/10000100000000060000000014254032_0.smil
-#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/书画.png" group-title="数字频道",书画频道
+#EXTINF:-1 tvg-name="书画" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/书画.png" group-title="数字频道",书画
 rtsp://139.215.98.88/PLTV/88888888/224/3221225872/10000100000000060000000015869926_0.smil
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/游戏风云.png" group-title="数字频道",游戏风云
 rtsp://139.215.98.88/PLTV/88888888/224/3221225876/10000100000000060000000015948525_0.smil
