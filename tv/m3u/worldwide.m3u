@@ -15,11 +15,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="测试",CNA 新加坡
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?zshijd
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="测试",ALJAZEERA半岛电视台 卡塔尔
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="测试",ALJAZEERA半岛新闻台
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="测试",ALJAZEERA半岛电视台 英语
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="测试",ALJAZEERA半岛国际新闻台
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="测试",ALJAZEERA半岛电视台 英语
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="测试",ALJAZEERA半岛国际新闻台
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="测试",ALJAZEERA半岛电视台 英语
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="测试",ALJAZEERA半岛国际新闻台
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
