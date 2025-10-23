@@ -311,11 +311,9 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221226113/100001000000000600000000154462
 rtsp://139.215.98.88/PLTV/88888888/224/3221226111/10000100000000060000000015446248_0.smil
 #EXTINF:-1 tvg-name="伊通" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/吉林默认.png" group-title="吉林地方频道",伊通
 rtsp://139.215.98.88/PLTV/88888888/224/3221226109/10000100000000060000000015446249_0.smil
-#EXTINF:-1 tvg-name="通化1" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/通化1.png" group-title="吉林地方频道",通化1
+#EXTINF:-1 tvg-name="通化1" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/通化新闻综合.png" group-title="吉林地方频道",通化1
 rtsp://139.215.98.88/PLTV/88888888/224/3221225842/10000100000000060000000015063095_0.smil
-#EXTINF:-1 tvg-name="通化2" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/通化2.png" group-title="吉林地方频道",通化2
-rtsp://139.215.98.88/PLTV/88888888/224/3221225840/10000100000000060000000015063096_0.smil
-#EXTINF:-1 tvg-name="通化3" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/通化3.png" group-title="吉林地方频道",通化3
+#EXTINF:-1 tvg-name="通化3" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/通化生活.png" group-title="吉林地方频道",通化3
 rtsp://139.215.98.88/PLTV/88888888/224/3221225838/10000100000000060000000015063097_0.smil
 #EXTINF:-1 tvg-name="集安" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/集安.png" group-title="吉林地方频道",集安
 rtsp://139.215.98.88/PLTV/88888888/224/3221226077/10000100000000060000000015417317_0.smil
