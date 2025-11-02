@@ -41,9 +41,9 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225801/100001000000000600000000142749
 rtsp://139.215.98.88/PLTV/88888888/224/3221225761/10000100000000060000000014254011_0.smil
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/央视台球.png" group-title="央视频道",CCTV央视台球
 rtsp://139.215.98.88/PLTV/88888888/224/3221225743/10000100000000060000000014253990_0.smil
-#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/CCTV-logo-2015/CCTV4欧洲.png" group-title="央视频道",CCTV4中文国际欧洲
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/CCTV-logo-2015/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
 rtsp://139.215.98.88/PLTV/88888888/224/3221226231/10000100000000060000000016336628_0.smil
-#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/CCTV-logo-2015/CCTV4美洲.png" group-title="央视频道",CCTV4中文国际美洲
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/CCTV-logo-2015/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
 rtsp://139.215.98.88/PLTV/88888888/224/3221225894/10000100000000060000000016336632_0.smil
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/CGTN.png" group-title="央视频道",CGTN
 rtsp://139.215.98.88/PLTV/88888888/224/3221226233/10000100000000060000000016336637_0.smil
@@ -53,9 +53,9 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225896/100001000000000600000000163366
 rtsp://139.215.98.88/PLTV/88888888/224/3221226237/10000100000000060000000016336658_0.smil
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/CGTN法语.png" group-title="央视频道",CGTN法语
 rtsp://139.215.98.88/PLTV/88888888/224/3221226235/10000100000000060000000016336646_0.smil
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/CGTN西语.png" group-title="央视频道",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/CGTN西语.png" group-title="央视频道",CGTN西班牙语
 rtsp://139.215.98.88/PLTV/88888888/224/3221225898/10000100000000060000000016336645_0.smil
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/CGTN阿语.png" group-title="央视频道",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/CGTN阿语.png" group-title="央视频道",CGTN阿拉伯语
 rtsp://139.215.98.88/PLTV/88888888/224/3221225900/10000100000000060000000016336654_0.smil
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/第一剧场.png" group-title="央视频道",CCTV第一剧场
 rtsp://139.215.98.88/PLTV/88888888/224/3221225779/10000100000000060000000014254031_0.smil
