@@ -359,5 +359,3 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225816/100001000000000600000000150468
 rtsp://139.215.98.88/PLTV/88888888/224/3221226187/10000100000000060000000015585160_0.smil
 #EXTINF:-1 tvg-name="临江" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/吉林默认.png" group-title="吉林地方频道",临江
 rtsp://139.215.98.88/PLTV/88888888/224/3221226189/10000100000000060000000015585159_0.smil
-#EXTINF:-1 tvg-name="长白" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/吉林默认.png" group-title="吉林地方频道",长白
-rtsp://139.215.98.88/PLTV/88888888/224/3221226075/10000100000000060000000015417319_0.smil
