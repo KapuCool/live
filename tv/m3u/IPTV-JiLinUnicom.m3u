@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://tv.mxdyeah.top/epgphp/t.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/CCTV-logo-2015/CCTV1.png" group-title="央视频道",CCTV1综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221225620/10000100000000060000000014261464_0.smil
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/CCTV-logo-2015/CCTV2.png" group-title="央视频道",CCTV2财经
@@ -39,7 +39,7 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225902/100001000000000600000000164986
 rtsp://139.215.98.88/PLTV/88888888/224/3221225801/10000100000000060000000014274940_0.smil
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/CCTV-logo-2015/CCTV4K.png" group-title="央视频道",CCTV4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225761/10000100000000060000000014254011_0.smil
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/央视台球.png" group-title="央视频道",CCTV央视台球
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/央视台球.png" group-title="央视频道",CCTV央视台球
 rtsp://139.215.98.88/PLTV/88888888/224/3221225743/10000100000000060000000014253990_0.smil
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/CCTV-logo-2015/CCTV4欧洲.png" group-title="央视频道",CCTV4中文国际欧洲
 rtsp://139.215.98.88/PLTV/88888888/224/3221226231/10000100000000060000000016336628_0.smil
@@ -57,27 +57,27 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221226235/100001000000000600000000163366
 rtsp://139.215.98.88/PLTV/88888888/224/3221225898/10000100000000060000000016336645_0.smil
 #EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/CGTN阿语.png" group-title="央视频道",CGTN阿拉伯语
 rtsp://139.215.98.88/PLTV/88888888/224/3221225900/10000100000000060000000016336654_0.smil
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/第一剧场.png" group-title="央视频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/第一剧场.png" group-title="央视频道",CCTV第一剧场
 rtsp://139.215.98.88/PLTV/88888888/224/3221225779/10000100000000060000000014254031_0.smil
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/风云剧场.png" group-title="央视频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/风云剧场.png" group-title="央视频道",CCTV风云剧场
 rtsp://139.215.98.88/PLTV/88888888/224/3221225829/10000100000000060000000014313392_0.smil
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/风云音乐.png" group-title="央视频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/风云音乐.png" group-title="央视频道",CCTV风云音乐
 rtsp://139.215.98.88/PLTV/88888888/224/3221225751/10000100000000060000000014254005_0.smil
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/风云足球.png" group-title="央视频道",CCTV风云足球
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/风云足球.png" group-title="央视频道",CCTV风云足球
 rtsp://139.215.98.88/PLTV/88888888/224/3221225747/10000100000000060000000014253997_0.smil
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/兵器科技.png" group-title="央视频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/兵器科技.png" group-title="央视频道",CCTV兵器科技
 rtsp://139.215.98.88/PLTV/88888888/224/3221225769/10000100000000060000000014254019_0.smil
-#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/女性时尚.png" group-title="央视频道",CCTV女性时尚
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/女性时尚.png" group-title="央视频道",CCTV女性时尚
 rtsp://139.215.98.88/PLTV/88888888/224/3221225745/10000100000000060000000014253993_0.smil
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/世界地理.png" group-title="央视频道",CCTV世界地理
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/世界地理.png" group-title="央视频道",CCTV世界地理
 rtsp://139.215.98.88/PLTV/88888888/224/3221225783/10000100000000060000000014254033_0.smil
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/高尔夫网球.png" group-title="央视频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/高尔夫网球.png" group-title="央视频道",CCTV高尔夫网球
 rtsp://139.215.98.88/PLTV/88888888/224/3221226213/10000100000000060000000015869929_0.smil
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
 rtsp://139.215.98.88/PLTV/88888888/224/3221225757/10000100000000060000000014254008_0.smil
-#EXTINF:-1 tvg-name="CCTV央视文化精品" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/央视文化精品.png" group-title="央视频道",CCTV央视文化精品
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/央视文化精品.png" group-title="央视频道",CCTV央视文化精品
 rtsp://139.215.98.88/PLTV/88888888/224/3221225767/10000100000000060000000014254016_0.smil
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/电视指南.png" group-title="央视频道",CCTV电视指南
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/电视指南.png" group-title="央视频道",CCTV电视指南
 rtsp://139.215.98.88/PLTV/88888888/224/3221225831/10000100000000060000000014313398_0.smil
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/吉林卫视.png" group-title="吉林频道",吉林卫视
 rtsp://139.215.98.88/PLTV/88888888/224/3221225835/10000100000000060000000014698360_0.smil
@@ -93,11 +93,11 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221226015/100001000000000600000000152422
 rtsp://139.215.98.88/PLTV/88888888/224/3221226029/10000100000000060000000015242271_0.smil
 #EXTINF:-1 tvg-name="长影频道" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/长影频道.png" group-title="吉林频道",长影频道
 rtsp://139.215.98.88/PLTV/88888888/224/3221225848/10000100000000060000000015213098_0.smil
-#EXTINF:-1 tvg-name="长春综合" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/CRT综合.png" group-title="吉林频道",长春1综合
+#EXTINF:-1 tvg-name="长春综合" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/CRT综合.png" group-title="吉林频道",长春综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221225630/10000100000000060000000014292013_0.smil
-#EXTINF:-1 tvg-name="长春文旅体育" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/CRT文旅体育.png" group-title="吉林频道",长春2文旅体育
+#EXTINF:-1 tvg-name="长春文旅体育" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/CRT文旅体育.png" group-title="吉林频道",长春文旅体育
 rtsp://139.215.98.88/PLTV/88888888/224/3221225632/10000100000000060000000014292014_0.smil
-#EXTINF:-1 tvg-name="长春市民生活" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/CRT市民生活.png" group-title="吉林频道",长春3市民生活
+#EXTINF:-1 tvg-name="长春市民" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/CRT市民生活.png" group-title="吉林频道",长春市民生活
 rtsp://139.215.98.88/PLTV/88888888/224/3221225634/10000100000000060000000014292015_0.smil
 #EXTINF:-1 tvg-name="吉林市新闻综合" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/吉林市新闻综合.png" group-title="吉林频道",吉林市新闻综合
 https://living.muzhifm.com/jilinshi/jilin_zonghe_v.m3u8?auth_key=1837821685-0-0-67b43a2f1e9e2ce78746337eea2b2537
@@ -225,7 +225,7 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225552/100001000000000600000000000296
 rtsp://139.215.98.88/PLTV/88888888/224/3221226243/10000100000000060000000016498635_0.smil
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
 rtsp://139.215.98.88/PLTV/88888888/224/3221225741/10000100000000060000000014253765_0.smil
-#EXTINF:-1,tvg-name="纪实科教" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/北京纪实科教.png" group-title="数字频道",BRTV纪实科教
+#EXTINF:-1,tvg-name="北京纪实科教" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/北京纪实科教.png" group-title="数字频道",北京纪实科教
 rtsp://139.215.98.88/PLTV/88888888/224/3221225508/10000100000000060000000000029576_0.smil
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/湖南金鹰纪实.png" group-title="数字频道",金鹰纪实
 rtsp://139.215.98.88/PLTV/88888888/224/3221226053/10000100000000060000000015417310_0.smil
