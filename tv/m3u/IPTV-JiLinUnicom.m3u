@@ -109,6 +109,8 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225830/100001000000000600000000150468
 rtsp://139.215.98.88/PLTV/88888888/224/3221225828/10000100000000060000000015046810_0.smil
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/延边卫视.png" group-title="吉林频道",延边卫视
 rtsp://139.215.98.88/PLTV/88888888/224/3221225698/10000100000000060000000014819811_0.smil
+#EXTINF:-1 tvg-name="吉林教育" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/吉林教育.png" group-title="吉林频道",吉林教育
+rtsp://139.215.98.88/PLTV/88888888/224/3221225846/10000100000000060000000015213097_0.smil
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/北京卫视4K.png" group-title="卫视频道",北京卫视4K超高清
 rtsp://139.215.98.88/PLTV/88888888/224/3221225524/10000100000000060000000000029584_0.smil
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/广东卫视4K.png" group-title="卫视频道",广东卫视4K超高清
@@ -229,8 +231,6 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225741/100001000000000600000000142537
 rtsp://139.215.98.88/PLTV/88888888/224/3221225508/10000100000000060000000000029576_0.smil
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/湖南金鹰纪实.png" group-title="数字频道",金鹰纪实
 rtsp://139.215.98.88/PLTV/88888888/224/3221226053/10000100000000060000000015417310_0.smil
-#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/中国交通.png" group-title="数字频道",中国交通
-rtsp://139.215.98.88/PLTV/88888888/224/3221226195/10000100000000060000000015634735_0.smil
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/武术世界.png" group-title="数字频道",武术世界
 rtsp://139.215.98.88/PLTV/88888888/224/3221225534/10000100000000060000000000029589_0.smil
 #EXTINF:-1,tvg-name="文物宝库" tvg-logo="https://gitee.com/nord-zhang/self-use-tv-logo/raw/master/TV-logo/文物宝库.png" group-title="数字频道",文物宝库
